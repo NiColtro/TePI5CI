@@ -1,0 +1,16 @@
+V:\UserData\Documenti\GitHub\Socket1_Client\Socket1_Client\bin\Debug\net5.0\Socket1_Client.exe
+V:\UserData\Documenti\GitHub\Socket1_Client\Socket1_Client\bin\Debug\net5.0\Socket1_Client.deps.json
+V:\UserData\Documenti\GitHub\Socket1_Client\Socket1_Client\bin\Debug\net5.0\Socket1_Client.runtimeconfig.json
+V:\UserData\Documenti\GitHub\Socket1_Client\Socket1_Client\bin\Debug\net5.0\Socket1_Client.runtimeconfig.dev.json
+V:\UserData\Documenti\GitHub\Socket1_Client\Socket1_Client\bin\Debug\net5.0\Socket1_Client.dll
+V:\UserData\Documenti\GitHub\Socket1_Client\Socket1_Client\bin\Debug\net5.0\ref\Socket1_Client.dll
+V:\UserData\Documenti\GitHub\Socket1_Client\Socket1_Client\bin\Debug\net5.0\Socket1_Client.pdb
+V:\UserData\Documenti\GitHub\Socket1_Client\Socket1_Client\obj\Debug\net5.0\Socket1_Client.csproj.AssemblyReference.cache
+V:\UserData\Documenti\GitHub\Socket1_Client\Socket1_Client\obj\Debug\net5.0\Socket1_Client.GeneratedMSBuildEditorConfig.editorconfig
+V:\UserData\Documenti\GitHub\Socket1_Client\Socket1_Client\obj\Debug\net5.0\Socket1_Client.AssemblyInfoInputs.cache
+V:\UserData\Documenti\GitHub\Socket1_Client\Socket1_Client\obj\Debug\net5.0\Socket1_Client.AssemblyInfo.cs
+V:\UserData\Documenti\GitHub\Socket1_Client\Socket1_Client\obj\Debug\net5.0\Socket1_Client.csproj.CoreCompileInputs.cache
+V:\UserData\Documenti\GitHub\Socket1_Client\Socket1_Client\obj\Debug\net5.0\Socket1_Client.dll
+V:\UserData\Documenti\GitHub\Socket1_Client\Socket1_Client\obj\Debug\net5.0\ref\Socket1_Client.dll
+V:\UserData\Documenti\GitHub\Socket1_Client\Socket1_Client\obj\Debug\net5.0\Socket1_Client.pdb
+V:\UserData\Documenti\GitHub\Socket1_Client\Socket1_Client\obj\Debug\net5.0\Socket1_Client.genruntimeconfig.cache
