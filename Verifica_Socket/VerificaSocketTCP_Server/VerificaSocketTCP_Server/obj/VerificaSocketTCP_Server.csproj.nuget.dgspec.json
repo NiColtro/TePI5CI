@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "V:\\UserData\\Documenti\\GitHub\\VerificaSocketTCP_Server\\VerificaSocketTCP_Server\\VerificaSocketTCP_Server.csproj": {}
+    "Z:\\TePI5CI\\Verifica_Socket\\VerificaSocketTCP_Server\\VerificaSocketTCP_Server\\VerificaSocketTCP_Server.csproj": {}
   },
   "projects": {
-    "V:\\UserData\\Documenti\\GitHub\\VerificaSocketTCP_Server\\VerificaSocketTCP_Server\\VerificaSocketTCP_Server.csproj": {
+    "Z:\\TePI5CI\\Verifica_Socket\\VerificaSocketTCP_Server\\VerificaSocketTCP_Server\\VerificaSocketTCP_Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "V:\\UserData\\Documenti\\GitHub\\VerificaSocketTCP_Server\\VerificaSocketTCP_Server\\VerificaSocketTCP_Server.csproj",
+        "projectUniqueName": "Z:\\TePI5CI\\Verifica_Socket\\VerificaSocketTCP_Server\\VerificaSocketTCP_Server\\VerificaSocketTCP_Server.csproj",
         "projectName": "VerificaSocketTCP_Server",
-        "projectPath": "V:\\UserData\\Documenti\\GitHub\\VerificaSocketTCP_Server\\VerificaSocketTCP_Server\\VerificaSocketTCP_Server.csproj",
+        "projectPath": "Z:\\TePI5CI\\Verifica_Socket\\VerificaSocketTCP_Server\\VerificaSocketTCP_Server\\VerificaSocketTCP_Server.csproj",
         "packagesPath": "C:\\Users\\coltr.DESKTOP-S1MR7M2\\.nuget\\packages\\",
-        "outputPath": "V:\\UserData\\Documenti\\GitHub\\VerificaSocketTCP_Server\\VerificaSocketTCP_Server\\obj\\",
+        "outputPath": "Z:\\TePI5CI\\Verifica_Socket\\VerificaSocketTCP_Server\\VerificaSocketTCP_Server\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\coltr.DESKTOP-S1MR7M2\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,16 @@
+Z:\TePI5CI\Socket_Temperatura\Client\Client\bin\Debug\net5.0\Client.exe
+Z:\TePI5CI\Socket_Temperatura\Client\Client\bin\Debug\net5.0\Client.deps.json
+Z:\TePI5CI\Socket_Temperatura\Client\Client\bin\Debug\net5.0\Client.runtimeconfig.json
+Z:\TePI5CI\Socket_Temperatura\Client\Client\bin\Debug\net5.0\Client.runtimeconfig.dev.json
+Z:\TePI5CI\Socket_Temperatura\Client\Client\bin\Debug\net5.0\Client.dll
+Z:\TePI5CI\Socket_Temperatura\Client\Client\bin\Debug\net5.0\ref\Client.dll
+Z:\TePI5CI\Socket_Temperatura\Client\Client\bin\Debug\net5.0\Client.pdb
+Z:\TePI5CI\Socket_Temperatura\Client\Client\obj\Debug\net5.0\Client.csproj.AssemblyReference.cache
+Z:\TePI5CI\Socket_Temperatura\Client\Client\obj\Debug\net5.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+Z:\TePI5CI\Socket_Temperatura\Client\Client\obj\Debug\net5.0\Client.AssemblyInfoInputs.cache
+Z:\TePI5CI\Socket_Temperatura\Client\Client\obj\Debug\net5.0\Client.AssemblyInfo.cs
+Z:\TePI5CI\Socket_Temperatura\Client\Client\obj\Debug\net5.0\Client.csproj.CoreCompileInputs.cache
+Z:\TePI5CI\Socket_Temperatura\Client\Client\obj\Debug\net5.0\Client.dll
+Z:\TePI5CI\Socket_Temperatura\Client\Client\obj\Debug\net5.0\ref\Client.dll
+Z:\TePI5CI\Socket_Temperatura\Client\Client\obj\Debug\net5.0\Client.pdb
+Z:\TePI5CI\Socket_Temperatura\Client\Client\obj\Debug\net5.0\Client.genruntimeconfig.cache
