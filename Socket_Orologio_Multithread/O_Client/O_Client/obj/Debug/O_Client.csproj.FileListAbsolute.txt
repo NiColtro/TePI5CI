@@ -1,0 +1,11 @@
+\\spazio\profili_studenti$\5CIINF07\Documents\Visual Studio 2012\Projects\Socket_Orologio\C\O_Client\O_Client\bin\Debug\O_Client.exe.config
+\\spazio\profili_studenti$\5CIINF07\Documents\Visual Studio 2012\Projects\Socket_Orologio\C\O_Client\O_Client\bin\Debug\O_Client.exe
+\\spazio\profili_studenti$\5CIINF07\Documents\Visual Studio 2012\Projects\Socket_Orologio\C\O_Client\O_Client\bin\Debug\O_Client.pdb
+\\spazio\profili_studenti$\5CIINF07\Documents\Visual Studio 2012\Projects\Socket_Orologio\C\O_Client\O_Client\obj\Debug\O_Client.exe
+\\spazio\profili_studenti$\5CIINF07\Documents\Visual Studio 2012\Projects\Socket_Orologio\C\O_Client\O_Client\obj\Debug\O_Client.pdb
+\\spazio\profili_studenti$\5CIINF07\Documents\Socket_Orologio_Multith\C\O_Client\O_Client\bin\Debug\O_Client.exe.config
+\\spazio\profili_studenti$\5CIINF07\Documents\Socket_Orologio_Multith\C\O_Client\O_Client\bin\Debug\O_Client.exe
+\\spazio\profili_studenti$\5CIINF07\Documents\Socket_Orologio_Multith\C\O_Client\O_Client\bin\Debug\O_Client.pdb
+\\spazio\profili_studenti$\5CIINF07\Documents\Socket_Orologio_Multith\C\O_Client\O_Client\obj\Debug\O_Client.csproj.CoreCompileInputs.cache
+\\spazio\profili_studenti$\5CIINF07\Documents\Socket_Orologio_Multith\C\O_Client\O_Client\obj\Debug\O_Client.exe
+\\spazio\profili_studenti$\5CIINF07\Documents\Socket_Orologio_Multith\C\O_Client\O_Client\obj\Debug\O_Client.pdb
