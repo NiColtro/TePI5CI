@@ -9,3 +9,11 @@
 \\spazio\profili_studenti$\5CIINF07\Documents\Socket_Orologio_Multith\C\O_Client\O_Client\obj\Debug\O_Client.csproj.CoreCompileInputs.cache
 \\spazio\profili_studenti$\5CIINF07\Documents\Socket_Orologio_Multith\C\O_Client\O_Client\obj\Debug\O_Client.exe
 \\spazio\profili_studenti$\5CIINF07\Documents\Socket_Orologio_Multith\C\O_Client\O_Client\obj\Debug\O_Client.pdb
+C:\Users\coltr\Desktop\GitTmp\TePI5CI\Socket_Orologio_Multithread\O_Client\O_Client\bin\Debug\O_Client.exe.config
+C:\Users\coltr\Desktop\GitTmp\TePI5CI\Socket_Orologio_Multithread\O_Client\O_Client\bin\Debug\O_Client.exe
+C:\Users\coltr\Desktop\GitTmp\TePI5CI\Socket_Orologio_Multithread\O_Client\O_Client\bin\Debug\O_Client.pdb
+C:\Users\coltr\Desktop\GitTmp\TePI5CI\Socket_Orologio_Multithread\O_Client\O_Client\obj\Debug\O_Client.csproj.AssemblyReference.cache
+C:\Users\coltr\Desktop\GitTmp\TePI5CI\Socket_Orologio_Multithread\O_Client\O_Client\obj\Debug\O_Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\coltr\Desktop\GitTmp\TePI5CI\Socket_Orologio_Multithread\O_Client\O_Client\obj\Debug\O_Client.csproj.CoreCompileInputs.cache
+C:\Users\coltr\Desktop\GitTmp\TePI5CI\Socket_Orologio_Multithread\O_Client\O_Client\obj\Debug\O_Client.exe
+C:\Users\coltr\Desktop\GitTmp\TePI5CI\Socket_Orologio_Multithread\O_Client\O_Client\obj\Debug\O_Client.pdb
