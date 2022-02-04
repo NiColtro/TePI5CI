@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "PAYvY3UqwTOlPAQDWyZ+KW8RZJIMEl/XmJV/YL/mtD/PV4l/F8IFcIwwG4Ld4psKccYloWi5zu25SpivGaNinw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\coltr\\Desktop\\GitTmp\\TePI5CI\\Socket_Temperatura_Multithread\\Client\\Client\\Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\coltr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512",
+    "C:\\Users\\coltr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\coltr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\coltr\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

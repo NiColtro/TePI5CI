@@ -11,3 +11,11 @@
 \\spazio\profili_studenti$\5CIINF07\Documents\Socket_Orologio_Multith\C\O_Server\O_Server\obj\Debug\O_Server.csproj.CoreCompileInputs.cache
 \\spazio\profili_studenti$\5CIINF07\Documents\Socket_Orologio_Multith\C\O_Server\O_Server\obj\Debug\O_Server.exe
 \\spazio\profili_studenti$\5CIINF07\Documents\Socket_Orologio_Multith\C\O_Server\O_Server\obj\Debug\O_Server.pdb
+C:\Users\coltr\Desktop\GitTmp\TePI5CI\Socket_Orologio_Multithread\O_Server\O_Server\bin\Debug\O_Server.exe.config
+C:\Users\coltr\Desktop\GitTmp\TePI5CI\Socket_Orologio_Multithread\O_Server\O_Server\bin\Debug\O_Server.exe
+C:\Users\coltr\Desktop\GitTmp\TePI5CI\Socket_Orologio_Multithread\O_Server\O_Server\bin\Debug\O_Server.pdb
+C:\Users\coltr\Desktop\GitTmp\TePI5CI\Socket_Orologio_Multithread\O_Server\O_Server\obj\Debug\O_Server.csproj.AssemblyReference.cache
+C:\Users\coltr\Desktop\GitTmp\TePI5CI\Socket_Orologio_Multithread\O_Server\O_Server\obj\Debug\O_Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\coltr\Desktop\GitTmp\TePI5CI\Socket_Orologio_Multithread\O_Server\O_Server\obj\Debug\O_Server.csproj.CoreCompileInputs.cache
+C:\Users\coltr\Desktop\GitTmp\TePI5CI\Socket_Orologio_Multithread\O_Server\O_Server\obj\Debug\O_Server.exe
+C:\Users\coltr\Desktop\GitTmp\TePI5CI\Socket_Orologio_Multithread\O_Server\O_Server\obj\Debug\O_Server.pdb
