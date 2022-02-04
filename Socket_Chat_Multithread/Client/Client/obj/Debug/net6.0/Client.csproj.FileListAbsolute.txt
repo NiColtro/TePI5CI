@@ -1,0 +1,15 @@
+E:\Dev\Git Repos\TePI5CI\Socket_Chat_Multithread\Client\Client\bin\Debug\net6.0\Client.exe
+E:\Dev\Git Repos\TePI5CI\Socket_Chat_Multithread\Client\Client\bin\Debug\net6.0\Client.deps.json
+E:\Dev\Git Repos\TePI5CI\Socket_Chat_Multithread\Client\Client\bin\Debug\net6.0\Client.runtimeconfig.json
+E:\Dev\Git Repos\TePI5CI\Socket_Chat_Multithread\Client\Client\bin\Debug\net6.0\Client.dll
+E:\Dev\Git Repos\TePI5CI\Socket_Chat_Multithread\Client\Client\bin\Debug\net6.0\ref\Client.dll
+E:\Dev\Git Repos\TePI5CI\Socket_Chat_Multithread\Client\Client\bin\Debug\net6.0\Client.pdb
+E:\Dev\Git Repos\TePI5CI\Socket_Chat_Multithread\Client\Client\obj\Debug\net6.0\Client.csproj.AssemblyReference.cache
+E:\Dev\Git Repos\TePI5CI\Socket_Chat_Multithread\Client\Client\obj\Debug\net6.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev\Git Repos\TePI5CI\Socket_Chat_Multithread\Client\Client\obj\Debug\net6.0\Client.AssemblyInfoInputs.cache
+E:\Dev\Git Repos\TePI5CI\Socket_Chat_Multithread\Client\Client\obj\Debug\net6.0\Client.AssemblyInfo.cs
+E:\Dev\Git Repos\TePI5CI\Socket_Chat_Multithread\Client\Client\obj\Debug\net6.0\Client.csproj.CoreCompileInputs.cache
+E:\Dev\Git Repos\TePI5CI\Socket_Chat_Multithread\Client\Client\obj\Debug\net6.0\Client.dll
+E:\Dev\Git Repos\TePI5CI\Socket_Chat_Multithread\Client\Client\obj\Debug\net6.0\ref\Client.dll
+E:\Dev\Git Repos\TePI5CI\Socket_Chat_Multithread\Client\Client\obj\Debug\net6.0\Client.pdb
+E:\Dev\Git Repos\TePI5CI\Socket_Chat_Multithread\Client\Client\obj\Debug\net6.0\Client.genruntimeconfig.cache
